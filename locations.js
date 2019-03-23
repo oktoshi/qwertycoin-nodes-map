@@ -1,7 +1,7 @@
 const axios = require('axios');
 const CachemanFile = require('cacheman-file');
 
-const cache = new CachemanFile({tmpDir: '.cache', ttl: 24*3600,});
+const cache = new CachemanFile({tmpDir: '.cache2', ttl: 24*3600,});
 
 const getPeers = async () => {
     try {

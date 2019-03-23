@@ -12,6 +12,6 @@ app.get('/', async (req, res) => {
     res.render('home', { locations: await locations.getCachedLocations() });
 });
 
-app.listen(9090);
+app.listen(8195);
 
-console.log('listening on port 9090');
+console.log('listening on port 8195 (proxypass 80)');
