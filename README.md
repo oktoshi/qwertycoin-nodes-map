@@ -1,6 +1,6 @@
 ![image](https://cdn.qwertycoin.org/images/press/other/qwc-github-3.png)
 #### Master Build Status
-[![Build Status](https://travis-ci.org/qwertycoin-org/qwertycoin-nodes-map.svg?branch=master)](https://travis-ci.org/qwertycoin-org/qwertycoin-nodes-map) [![Build status](https://ci.appveyor.com/api/projects/status/github/qwertycoin/qwertycoin-nodes-map?branch=master&svg=true)](https://ci.appveyor.com/project/qwertycoin/qwertycoin-nodes-map)
+[![Build Status](https://travis-ci.org/qwertycoin-org/qwertycoin-nodes-map.svg?branch=master)](https://travis-ci.org/qwertycoin-org/qwertycoin-nodes-map) [![Build status](https://ci.appveyor.com/api/projects/status/78ot0ppti2e16ur9/branch/master?svg=true)](https://ci.appveyor.com/project/Qwertycoin/qwertycoin-nodes-map/branch/master)
 
 
 # Qwertycoin nodes map
